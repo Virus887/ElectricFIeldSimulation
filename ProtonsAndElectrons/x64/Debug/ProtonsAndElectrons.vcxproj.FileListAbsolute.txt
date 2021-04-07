@@ -1,0 +1,2 @@
+C:\Users\ginka\Desktop\Sem5\ProcesoryGraficzne\PoleGrawitacyjneCUDA\ProtonsAndElectrons\ProtonsAndElectrons\x64\Debug\ProtonsAndElectrons.vcxproj.CopyComplete
+C:\Users\ginka\Desktop\Sem5\ProcesoryGraficzne\ElectricFieldSimulation\ProtonsAndElectrons\x64\Debug\ProtonsAndElectrons.vcxproj.CopyComplete
